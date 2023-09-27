@@ -1,10 +1,11 @@
 
-Fetching data from an api and storing that in mongodb database.
+Scraping books data from http://books.toscrape.com and storing that in mongodb database.
 
 ## Tech Stack
 
 - Node
 - Mongodb
+- Cheerio
 - Axios
 - Mongoose
 
